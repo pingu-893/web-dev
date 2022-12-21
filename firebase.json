@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/home/pingu/nea_project/DeliveryPage_iteration0/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
